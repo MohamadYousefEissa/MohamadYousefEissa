@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m a Full Stack Developer with four years of experience in front-end development, specializing in Vue, Nuxt, and<br>TypeScript, and now complemented by a strong year of professional experience with React and Next.js. I have one<br>year of experience in back-end development and mobile apps using Node.js, MongoDB, and Flutter.<br>I excel at building robust, user-friendly web and mobile applications, leveraging the right framework whether it's Vue<br>for its elegant reactivity, React for its vast ecosystem, or Next.js/Nuxt for server-side rendering and performance to<br>transform complex ideas into efficient, functional, and visually appealing full-stack solutions.
+I’m a Full Stack Developer with two years of experience working with React and Next.js, complemented by three years
+of professional experience in back-end and mobile development using Node.js, MongoDB and Flutter. Prior to that, I
+spent four years in front-end development specializing in Vue, Nuxt, and TypeScript.
+I excel at building robust, user-friendly web and mobile applications, leveraging the right framework whether it's React
+for its vast ecosystem, Next.js for server-side rendering and performance, or Vue/Nuxt for elegant reactivity to
+transform complex ideas into efficient, functional, and visually appealing full-stack solutions.
 
 
 ## 🌐 Socials:
